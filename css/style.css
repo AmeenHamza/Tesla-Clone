@@ -12,7 +12,7 @@ body {
 }
 
 .top-mynav {
-    background-image: radial-gradient(54.97% 272.54% at 27.36% -134.72%,rgba(108,148,255,.92) 0,rgba(0,0,0,.92) 100%);
+    background-image: radial-gradient(54.97% 272.54% at 27.36% -134.72%, rgba(108, 148, 255, .92) 0, rgba(0, 0, 0, .92) 100%);
     color: white;
     height: 50px;
     display: flex;
@@ -77,7 +77,8 @@ body {
     color: #171A20;
 }
 
-.data h1, p {
+.data h1,
+p {
     color: #fff;
 }
 
@@ -111,7 +112,8 @@ body {
     position: relative;
 }
 
-.second-section p,p a {
+.second-section p,
+p a {
     color: #171A20;
 }
 
@@ -139,7 +141,7 @@ body {
 
 .second-buttons .sec-btn {
     padding: 8px 7%;
-    margin: 0 8px; 
+    margin: 0 8px;
     border: none;
     outline: none;
 }
@@ -174,7 +176,7 @@ body {
 
 /* Fifth section */
 
-.fifth-section{
+.fifth-section {
     background-image: url('../images/bg\ 4.avif');
     background-position: center;
     background-repeat: no-repeat;
@@ -237,7 +239,7 @@ footer ul {
     bottom: 0;
 }
 
-footer ul li a{
+footer ul li a {
     text-decoration: none;
     color: #5C5E62;
     padding: 0 8px;
@@ -248,6 +250,7 @@ footer ul li a{
     .logo-img {
         margin-right: 10em;
     }
+
     .nav-item .nav-link {
         font-size: 13px;
         margin: -4px;
@@ -266,10 +269,12 @@ footer ul li a{
         flex-wrap: wrap;
         text-align: center;
         justify-content: center;
-    }   
+    }
+
     .top-mynav p {
         font-size: 13px;
     }
+
     .price a {
         font-size: 13px;
     }
